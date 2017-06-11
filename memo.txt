@@ -1,0 +1,10 @@
+・vebv環境作成
+$python -m venv env
+$ls
+env/
+
+$source env/bin/activate
+(env)$
+
+・参照
+http://bootcamp-text.readthedocs.io/textbook/6_pyvenv.html
