@@ -1,3 +1,4 @@
+#Python Boot Canp scraping sample code
 import requests
 from bs4 import BeautifulSoup
 
