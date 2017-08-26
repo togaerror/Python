@@ -6,5 +6,8 @@ env/
 $source env/bin/activate
 (env)$
 
+終了
+(env)$ deactivate
+
 ・参照
 http://bootcamp-text.readthedocs.io/textbook/6_pyvenv.html
